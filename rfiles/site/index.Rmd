@@ -1,0 +1,34 @@
+---
+title: |
+  Stop and search - get the data
+output:
+  html_document:
+    df_print: paged
+  
+---
+
+***This story is available for use by NEWSORG's news partners. Please do not share outside of the network. It is under strict embargo until November 7 at 0001.*** 
+
+***Use the dropdown navigation menus across the top of the page to see the data for a specific local authority***
+
+# What’s the story? {.tabset .tabset-fade .tabset-pills}
+
+Here's some text for the first part of the page.
+
+
+## What the experts say
+
+This section will be automatically given a 'button' because it uses a level 2 heading (2 hashes)
+
+### Case study 1
+
+Put some quotes here.
+
+### Expert 1
+
+More quotes here.
+
+## Could there be other reasons for the change?
+
+Here's another section given its own button.
+

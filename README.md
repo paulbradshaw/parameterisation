@@ -25,3 +25,11 @@ In practical terms we need to do the following:
 4. Render HTML versions of the analysis pages and index, including a navigation bar
 5. Upload to GitHub and publish as a GitHub Pages website
 6. Debug, clean and tweak the HTML
+
+### The files
+
+You will find the R Markdown files in the [rfiles folder](https://github.com/paulbradshaw/parameterisation/tree/main/rfiles). 
+
+The markdown doesn't render on GitHub so I've also uploaded simple [markdown versions in the mdfiles folder](https://github.com/paulbradshaw/parameterisation/tree/main/mdfiles). 
+
+The resulting HTML files and CSS/JS libraries can be found in the [docs folder](https://github.com/paulbradshaw/parameterisation/tree/main/docs), and the website generated from those can be found at https://paulbradshaw.github.io/parameterisation/

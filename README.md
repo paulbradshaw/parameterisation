@@ -32,9 +32,9 @@ You will find the R Markdown files in the [rfiles folder](https://github.com/pau
 
 The markdown doesn't render on GitHub so I've also uploaded simple [markdown versions in the mdfiles folder](https://github.com/paulbradshaw/parameterisation/tree/main/mdfiles). 
 
-The resulting HTML files and CSS/JS libraries can be found in the [docs folder](https://github.com/paulbradshaw/parameterisation/tree/main/docs), and the website generated from those can be found at https://paulbradshaw.github.io/parameterisation/
+The resulting HTML files and CSS/JS libraries can be found in the [docs folder](https://github.com/paulbradshaw/parameterisation/tree/main/docs), and the website generated from those can be found at https://paulbradshaw.github.io/parameterisation/.
 
-### Tips and tricks
+### Tips and tricks
 
 * Set code and output to not be displayed in HTML page using `knitr::opts_chunk$set(echo = FALSE, warning = F, message = F)`
 * Reduce size of knitted HTML file by specifying in `html_document:` part of YAML that `self_contained: false` and `lib_dir: site/libs`
